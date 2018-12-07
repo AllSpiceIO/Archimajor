@@ -256,7 +256,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LCICSCCT
+
+[Document14]
+DocumentPath=Fans.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OKTEGYHR
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs\Gerber\Archim2_2.1a.DRR
@@ -359,24 +376,24 @@ DocumentPath=Project Outputs\Archim2_2.1a_PickPlace.txt
 DItemRevisionGUID=
 
 [Parameter1]
-Name=projectDesigner
-Value=UltiMachine
+Name=projectVersion
+Value=2.2a
 
 [Parameter2]
-Name=projectdocumentNumber
-Value=.
+Name=projectTitle
+Value=Archim2
 
 [Parameter3]
 Name=projectDocumentRevision
 Value=2.1
 
 [Parameter4]
-Name=projectTitle
-Value=Archim2
+Name=projectdocumentNumber
+Value=.
 
 [Parameter5]
-Name=projectVersion
-Value=2.2a
+Name=projectDesigner
+Value=UltiMachine
 
 [Configuration1]
 Name=Sources
@@ -1049,6 +1066,36 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad v7 Capture Design
+OutputName12=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=P-CAD ASCII
+OutputName13=P-CAD ASCII (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD V16 Schematic Design
+OutputName14=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=SiSoft
+OutputName15=SiSoft (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1191,7 +1238,7 @@ Type8=1
 Type9=1
 Type10=1
 Type11=1
-Type12=1
+Type12=0
 Type13=1
 Type14=1
 Type15=1
