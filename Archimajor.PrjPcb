@@ -265,7 +265,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -274,6 +274,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKTEGYHR
+
+[Document15]
+DocumentPath=Connectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BUHDSGTJ
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs\Gerber\Archim2_2.1a.DRR
@@ -376,24 +393,24 @@ DocumentPath=Project Outputs\Archim2_2.1a_PickPlace.txt
 DItemRevisionGUID=
 
 [Parameter1]
-Name=projectVersion
-Value=2.2a
+Name=projectDesigner
+Value=UltiMachine
 
 [Parameter2]
-Name=projectTitle
-Value=Archim2
+Name=projectdocumentNumber
+Value=.
 
 [Parameter3]
 Name=projectDocumentRevision
 Value=2.1
 
 [Parameter4]
-Name=projectdocumentNumber
-Value=.
+Name=projectTitle
+Value=Archim2
 
 [Parameter5]
-Name=projectDesigner
-Value=UltiMachine
+Name=projectVersion
+Value=2.2a
 
 [Configuration1]
 Name=Sources
@@ -549,12 +566,22 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=XSpice Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=KONICA MINOLTA PS Color Laser Class Driver
+TargetPrinter=Brother HL-3140CW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
