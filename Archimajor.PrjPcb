@@ -241,6 +241,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LYSLXCOH
 
+[Document13]
+DocumentPath=Thermocouples.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=14
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EHQYCXAN
+
+[Document14]
+DocumentPath=Archimajor.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs\Gerber\Archim2_2.1a.DRR
 DItemRevisionGUID=
@@ -346,24 +380,24 @@ DocumentPath=Project Outputs for Archimajor\Design Rule Check - Archimajor.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=projectVersion
-Value=0.1a
+Name=projectDesigner
+Value=UltiMachine
 
 [Parameter2]
-Name=projectTitle
-Value=Archimajor
+Name=projectdocumentNumber
+Value=.
 
 [Parameter3]
 Name=projectDocumentRevision
 Value=a
 
 [Parameter4]
-Name=projectdocumentNumber
-Value=.
+Name=projectTitle
+Value=Archimajor
 
 [Parameter5]
-Name=projectDesigner
-Value=UltiMachine
+Name=projectVersion
+Value=0.1a
 
 [Configuration1]
 Name=Sources
