@@ -380,24 +380,32 @@ DocumentPath=Project Outputs for Archimajor\Design Rule Check - Archimajor.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=projectDesigner
-Value=UltiMachine
+Name=
+Value=
 
 [Parameter2]
-Name=projectdocumentNumber
-Value=.
+Name=
+Value=
 
 [Parameter3]
-Name=projectDocumentRevision
-Value=a
+Name=projectBoardVersion
+Value=0.1a
 
 [Parameter4]
 Name=projectTitle
 Value=Archimajor
 
 [Parameter5]
-Name=projectVersion
-Value=0.1a
+Name=projectDocumentRevision
+Value=a
+
+[Parameter6]
+Name=projectdocumentNumber
+Value=.
+
+[Parameter7]
+Name=projectDesigner
+Value=UltiMachine
 
 [Configuration1]
 Name=Sources
