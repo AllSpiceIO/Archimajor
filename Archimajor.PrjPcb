@@ -275,6 +275,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document15]
+DocumentPath=Archimajor.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs\Gerber\Archim2_2.1a.DRR
 DItemRevisionGUID=
@@ -376,36 +393,36 @@ DocumentPath=Project Outputs\Archim2_2.1a_PickPlace.txt
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=Project Outputs\Archimajor_0.1a_BOM.txt
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs\Archimajor_projectVersion_BOM.txt
+DItemRevisionGUID=
+
+[GeneratedDocument28]
 DocumentPath=Project Outputs for Archimajor\Design Rule Check - Archimajor.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=
-Value=
-
-[Parameter2]
-Name=
-Value=
-
-[Parameter3]
 Name=projectBoardVersion
 Value=0.1a
 
-[Parameter4]
-Name=projectTitle
-Value=Archimajor
+[Parameter2]
+Name=projectDesigner
+Value=UltiMachine
 
-[Parameter5]
-Name=projectDocumentRevision
-Value=a
-
-[Parameter6]
+[Parameter3]
 Name=projectdocumentNumber
 Value=.
 
-[Parameter7]
-Name=projectDesigner
-Value=UltiMachine
+[Parameter4]
+Name=projectDocumentRevision
+Value=a
+
+[Parameter5]
+Name=projectTitle
+Value=Archimajor
 
 [Configuration1]
 Name=Sources
@@ -561,22 +578,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=XSpice Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Brother HL-3140CW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1037,6 +1044,11 @@ OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=BOM_Violations
+OutputName7=BOM Checks Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -1217,6 +1229,7 @@ Type113=1
 Type114=1
 Type115=1
 Type116=1
+Type117=1
 
 [Difference Levels]
 Type1=1
@@ -1284,6 +1297,7 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
+Type66=1
 
 [Electrical Rules Check]
 Type1=1

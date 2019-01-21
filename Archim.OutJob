@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Archim.OutJob
+Name=
 Description=
 TargetOutputMedium=BOM
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=KONICA MINOLTA PS Color Laser Class Driver
+TargetPrinter=Brother HL-3140CW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -195,7 +195,7 @@ OutputEnabled4_OutputMedium8=1
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.50|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=Letter|PaperIndex=1
 Configuration4_Name1=OutputConfigurationParameter1
-Configuration4_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=41400000|ViewY=40900000|LookAtX=34400000|LookAtY=25250000|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=3.743961352657E-6|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ViewConfig= 
+Configuration4_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=41400000|ViewY=40900000|LookAtX=34400000|LookAtY=25250000|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=3.743961352657E-6|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ViewConfig=
 OutputType5=Gerber
 OutputName5=Gerber Files
 OutputCategory5=Fabrication
@@ -472,7 +472,7 @@ Configuration16_Name6=VisibleOrder
 Configuration16_Item6=Designator=100|DISTRIBUTOR=100|DISTRIBUTOR #=100|MANUFACTURER=100|MANUFACTURER #=100|PART=100|Quantity=100|DNI=100|Comment=100|Description=100|PART DESCRIPTION=100|VALUE=100|TOLERANCE=100|EE_SPEC=100
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\Archim2_2.1a_Schematic.PDF
+OutputFilePath2=C:\Users\Johnny\Documents\Projects\Archimajor\Project Outputs\Archimajor_projectVersion_Schematic.PDF
 ReleaseManaged2=0
 OutputBasePath2=Project Outputs\
 OutputPathMedia2=
@@ -483,7 +483,7 @@ OutputPathOutputerValue2=
 OutputFileName2=Archim.PDF
 OutputFileNameMulti2==ProjectTitle+_+projectVersion+_+VariantName+_+VarRevNo
 UseOutputNameForMulti2=0
-OutputFileNameSpecial2==ProjectTitle+_+projectVersion+_Schematic
+OutputFileNameSpecial2==ProjectTitle+_+projectBoardVersion+_Schematic
 OpenOutput2=1
 PromptOverwrite2=1
 PublishMethod2=0
@@ -512,7 +512,7 @@ OutputFileNameMulti3==ProjectTitle+_+projectVersion
 UseOutputNameForMulti3=0
 OutputFileNameSpecial3=
 OpenOutput3=1
-OutputFilePath4=C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\
+OutputFilePath4=C:\Users\Johnny\Documents\Projects\Archimajor\Project Outputs\
 ReleaseManaged4=0
 OutputBasePath4=Project Outputs\
 OutputPathMedia4=
@@ -521,7 +521,7 @@ OutputPathOutputer4=
 OutputPathOutputerPrefix4=
 OutputPathOutputerValue4=
 OutputFileName4=
-OutputFileNameMulti4==ProjectTitle+_+projectVersion+_BOM
+OutputFileNameMulti4==ProjectTitle+_+projectBoardVersion+_BOM
 UseOutputNameForMulti4=0
 OutputFileNameSpecial4=
 OpenOutput4=1
@@ -607,7 +607,7 @@ PDFACompliance8=Disabled
 PDFVersion8=Default
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\Archim2_2.1a_Schematic.PDF
+RelativeOutputPath2=C:\Users\Johnny\Documents\Projects\Archimajor\Project Outputs\Archimajor_projectVersion_Schematic.PDF
 OpenOutputs2=1
 RelativeOutputPath3=C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\
 OpenOutputs3=1
@@ -619,7 +619,7 @@ OpenGerberOutput3=0
 OpenNCDrillOutput3=0
 OpenIPCOutput3=0
 EnableReload3=0
-RelativeOutputPath4=C:\Users\Johnny\Documents\Projects\Archim\Project Outputs\
+RelativeOutputPath4=C:\Users\Johnny\Documents\Projects\Archimajor\Project Outputs\
 OpenOutputs4=1
 AddToProject4=1
 TimestampFolder4=0
