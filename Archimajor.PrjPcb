@@ -275,25 +275,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Archimajor\Design Rule Check - Archimajor.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=projectBoardVersion
-Value=0.1a
+Name=projectTitle
+Value=Archimajor
 
 [Parameter2]
-Name=projectDesigner
-Value=UltiMachine
+Name=projectDocumentRevision
+Value=a
 
 [Parameter3]
 Name=projectdocumentNumber
 Value=.
 
 [Parameter4]
-Name=projectDocumentRevision
-Value=a
+Name=projectDesigner
+Value=UltiMachine
 
 [Parameter5]
-Name=projectTitle
-Value=Archimajor
+Name=projectBoardVersion
+Value=0.1a
 
 [Configuration1]
 Name=Sources
