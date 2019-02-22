@@ -30,87 +30,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : BRD Outline
-      File : Archimajor_projectVersion.GM3
-
-    Adding Layer      : BRD Outline
-
-
-Used DCodes :
-    D19
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Archimajor_projectVersion.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D118
-    D179
-    D194
-    D195
-    D196
-    D197
-    D198
-    D199
-    D200
-    D201
-    D202
-    D203
-    D204
-    D205
-    D206
-    D207
-    D208
-    D364
-    D365
-    D366
-    D367
-    D368
-    D369
-    D370
-*************************************************************
-
-*************************************************************
-Generating : Top GND
-      File : Archimajor_projectVersion.GP1
-
-    Adding Layer      : Top GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D24
-    D118
-    D209
-    D326
-    D331
-    D332
-    D333
-    D334
-    D335
-    D336
-    D337
-    D338
-    D339
-    D340
-    D341
-    D342
-    D343
-    D344
-    D345
-*************************************************************
-
-*************************************************************
 Generating : Bottom Overlay
       File : Archimajor_projectVersion.GBO
 
@@ -122,140 +41,6 @@ Used DCodes :
     D18
     D19
     D27
-*************************************************************
-
-*************************************************************
-Generating : Bot GND
-      File : Archimajor_projectVersion.GP3
-
-    Adding Layer      : Bot GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D20
-    D24
-    D118
-    D209
-    D292
-    D298
-    D326
-    D332
-    D333
-    D334
-    D335
-    D336
-    D337
-    D338
-    D339
-    D340
-    D341
-    D342
-    D343
-    D344
-    D345
-    D356
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Archimajor_projectVersion.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D20
-    D21
-    D27
-    D30
-    D45
-    D118
-    D209
-    D210
-    D211
-    D273
-    D290
-    D292
-    D294
-    D296
-    D298
-    D299
-    D301
-    D302
-    D304
-    D308
-    D314
-    D315
-    D316
-    D317
-    D318
-    D319
-    D320
-    D321
-    D322
-    D323
-    D324
-    D325
-    D326
-    D327
-    D328
-    D329
-    D330
-    D357
-    D358
-    D359
-    D360
-    D361
-    D362
-    D363
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Archimajor_projectVersion.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
 *************************************************************
 
 *************************************************************
@@ -345,6 +130,235 @@ Used DCodes :
     D112
     D113
     D114
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Archimajor_projectVersion.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Archimajor_projectVersion.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D20
+    D21
+    D27
+    D30
+    D45
+    D118
+    D209
+    D210
+    D211
+    D273
+    D290
+    D292
+    D294
+    D296
+    D298
+    D299
+    D301
+    D302
+    D304
+    D308
+    D314
+    D315
+    D316
+    D317
+    D318
+    D319
+    D320
+    D321
+    D322
+    D323
+    D324
+    D325
+    D326
+    D327
+    D328
+    D329
+    D330
+    D357
+    D358
+    D359
+    D360
+    D361
+    D362
+    D363
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Archimajor_projectVersion.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D118
+    D179
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D364
+    D365
+    D366
+    D367
+    D368
+    D369
+    D370
+*************************************************************
+
+*************************************************************
+Generating : Bot GND
+      File : Archimajor_projectVersion.GP3
+
+    Adding Layer      : Bot GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D20
+    D24
+    D118
+    D209
+    D292
+    D298
+    D326
+    D332
+    D333
+    D334
+    D335
+    D336
+    D337
+    D338
+    D339
+    D340
+    D341
+    D342
+    D343
+    D344
+    D345
+    D356
+*************************************************************
+
+*************************************************************
+Generating : Dims
+      File : Archimajor_projectVersion.GM9
+
+    Adding Layer      : Dims
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mid1
+      File : Archimajor_projectVersion.G1
+
+    Adding Layer      : Mid1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D20
+    D21
+    D27
+    D30
+    D209
+    D273
+    D290
+    D291
+    D294
+    D298
+    D299
+    D300
+    D301
+    D304
+    D308
+    D309
+    D314
+    D315
+    D317
+    D319
+    D320
+    D328
+    D329
+    D330
+    D346
+    D350
+    D351
+    D352
+    D353
+    D354
+    D355
 *************************************************************
 
 *************************************************************
@@ -457,10 +471,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mid1
-      File : Archimajor_projectVersion.G1
+Generating : Power Plane
+      File : Archimajor_projectVersion.GP2
 
-    Adding Layer      : Mid1
+    Adding Layer      : Power Plane
 
     Adding Layer      : Multi-Layer
 
@@ -470,36 +484,69 @@ Used DCodes :
     D11
     D15
     D20
-    D21
-    D27
-    D30
+    D24
+    D118
     D209
-    D273
-    D290
-    D291
     D294
-    D298
-    D299
-    D300
-    D301
-    D304
-    D308
-    D309
-    D314
-    D315
-    D317
-    D319
-    D320
-    D328
-    D329
-    D330
+    D326
+    D332
+    D333
+    D334
+    D335
+    D336
+    D337
+    D338
+    D339
+    D340
+    D341
+    D343
     D346
-    D350
-    D351
-    D352
-    D353
-    D354
-    D355
+    D347
+    D348
+    D349
+*************************************************************
+
+*************************************************************
+Generating : BRD Outline
+      File : Archimajor_projectVersion.GM3
+
+    Adding Layer      : BRD Outline
+
+
+Used DCodes :
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top GND
+      File : Archimajor_projectVersion.GP1
+
+    Adding Layer      : Top GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D24
+    D118
+    D209
+    D326
+    D331
+    D332
+    D333
+    D334
+    D335
+    D336
+    D337
+    D338
+    D339
+    D340
+    D341
+    D342
+    D343
+    D344
+    D345
 *************************************************************
 
 *************************************************************
@@ -643,52 +690,5 @@ Used DCodes :
     D328
     D329
     D330
-*************************************************************
-
-*************************************************************
-Generating : Dims
-      File : Archimajor_projectVersion.GM9
-
-    Adding Layer      : Dims
-
-
-Used DCodes :
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Power Plane
-      File : Archimajor_projectVersion.GP2
-
-    Adding Layer      : Power Plane
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D15
-    D20
-    D24
-    D118
-    D209
-    D294
-    D326
-    D332
-    D333
-    D334
-    D335
-    D336
-    D337
-    D338
-    D339
-    D340
-    D341
-    D343
-    D346
-    D347
-    D348
-    D349
 *************************************************************
 
