@@ -312,92 +312,100 @@ DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GM3
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GM9
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GP1
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GM9
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GP2
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GP3
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTL
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GP3
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTO
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTP
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTS
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.LDP
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.REP
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.RUL
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.REP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs\ExportSTEP\Archimajor_projectVersion.step
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.TXT
+DocumentPath=Project Outputs\ExportSTEP\Archimajor_projectVersion.step
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs\Archimajor_projectVersion_PickPlace.csv
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs\Archimajor_projectVersion_PickPlace.txt
+DocumentPath=Project Outputs\Archimajor_projectVersion_PickPlace.csv
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=Project Outputs\Archimajor_projectVersion_PickPlace.txt
+DItemRevisionGUID=
+
+[GeneratedDocument27]
 DocumentPath=Project Outputs for Archimajor\Design Rule Check - Archimajor.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=projectBoardVersion
-Value=0.1a
+Name=projectVersion
+Value=0.1b
 
 [Parameter2]
-Name=projectDesigner
-Value=UltiMachine
+Name=projectTitle
+Value=Archimajor
 
 [Parameter3]
-Name=projectdocumentNumber
-Value=.
-
-[Parameter4]
 Name=projectDocumentRevision
 Value=a
 
+[Parameter4]
+Name=projectdocumentNumber
+Value=.
+
 [Parameter5]
-Name=projectTitle
-Value=Archimajor
+Name=projectDesigner
+Value=UltiMachine
+
+[Parameter6]
+Name=projectBoardVersion
+Value=0.1b
 
 [Configuration1]
 Name=Sources
@@ -557,7 +565,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother HL-3140CW series Printer
+TargetPrinter=KONICA MINOLTA PS Color Laser Class Driver
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
