@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Archimajor
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=USB.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=0
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EWKQVBXH
+
+[Document2]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUHDSGTJ
 
-[Document2]
+[Document3]
 DocumentPath=EndStops.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIFRWGJL
 
-[Document3]
+[Document4]
 DocumentPath=Fans.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKTEGYHR
 
-[Document4]
+[Document5]
 DocumentPath=Microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKBATWSA
 
-[Document5]
+[Document6]
 DocumentPath=Mosfets.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPQOJMSI
 
-[Document6]
+[Document7]
 DocumentPath=Motors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FRQHFNII
 
-[Document7]
+[Document8]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWVHACAQ
 
-[Document8]
+[Document9]
 DocumentPath=Thermistors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,23 +189,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JQJNHXFV
-
-[Document9]
-DocumentPath=USB.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=10
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EWKQVBXH
 
 [Document10]
 DocumentPath=Archim.OutJob
@@ -275,112 +275,641 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document15]
+DocumentPath=Archimajor.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs\Archimajor_0.1a_BOM.txt
+DocumentPath=Project Outputs\Archimajor.cvg
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.DRR
+DocumentPath=ProjectOutputs\Assembly\Archimajor.cvg
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.EXTREP
+DocumentPath=Project Outputs\Archimajor_0.1a_BOM.txt
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.G1
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GBL
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GBO
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GBS
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GD1
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.G1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GG1
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.G1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GM2
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GM3
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GM9
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GP1
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GP2
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GP3
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTL
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTO
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTP
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTS
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.LDP
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.REP
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.RUL
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs\ExportSTEP\Archimajor_projectVersion.step
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.TXT
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GM9
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs\Archimajor_projectVersion_PickPlace.csv
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GM9
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs\Archimajor_projectVersion_PickPlace.txt
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument27]
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GP3
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GP3
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.NET
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.NET
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.REP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.REP
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=ProjectOutputs\ExportSTEP\Archimajor_0.1b.step
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs\Gerber\Archimajor_0.1b.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=ProjectOutputs\Assembly\Archimajor_0.1b_BOM.txt
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=ProjectOutputs\Assembly\Archimajor_0.1b_odb
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs\Archimajor_0.1b_PickPlace
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs\Archimajor_0.1b_PickPlace.csv
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=ProjectOutputs\Assembly\Archimajor_0.1b_PickPlace.csv
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs\Archimajor_0.1b_PickPlace.txt
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=ProjectOutputs\Assembly\Archimajor_0.1b_PickPlace.txt
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.G1
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GM9
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GP3
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.REP
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs\ExportSTEP\Archimajor_projectVersion.step
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs\Gerber\Archimajor_projectVersion.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs\Archimajor_projectVersion_PickPlace.csv
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs\Archimajor_projectVersion_PickPlace.txt
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument89]
 DocumentPath=Project Outputs for Archimajor\Design Rule Check - Archimajor.html
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bot_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\brd_outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\mid1\features
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\power_plane\features
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\3d_body_bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\3d_body_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\assembly_bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\assembly_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\bot_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\bot_markings\features
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\bottom_designator\features
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\brd_outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\courtyard_bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\courtyard_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\dims\features
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\mechanical_6\features
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\mechanical_8\features
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\mechanical_12\features
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\mechanical_13\features
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\mechanical_16\features
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\mechanical_34\features
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\mid1\features
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\power_plane\features
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\pwr_temp\features
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\scratch\features
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\top_courtyard\features
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\top_designator\features
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\top_gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\v-score\features
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=ProjectOutputs\Assembly\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument147]
+DocumentPath=Project Outputs\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument148]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument149]
+DocumentPath=Project Outputs\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument150]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument151]
+DocumentPath=Project Outputs\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument152]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument153]
+DocumentPath=Project Outputs\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument154]
+DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument155]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Parameter1]
@@ -454,7 +983,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Archimajor
 
 [OutputGroup1]
 Name=Netlist Outputs
