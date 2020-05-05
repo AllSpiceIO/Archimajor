@@ -259,7 +259,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EHQYCXAN
 
 [Document14]
-DocumentPath=Archimajor.Annotation
+DocumentPath=..\..\..\Downloads\SimpleTest.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -273,227 +273,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=ProjectOutputs\Assembly\Archimajor.cvg
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.G1
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GM9
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GP3
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.NET
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.REP
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=ProjectOutputs\ExportSTEP\Archimajor_0.1b.step
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=ProjectOutputs\Gerber\Archimajor_0.1b.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=ProjectOutputs\Assembly\Archimajor_0.1b_BOM.txt
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=ProjectOutputs\Assembly\Archimajor_0.1b_odb
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=ProjectOutputs\Assembly\Archimajor_0.1b_PickPlace.csv
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=ProjectOutputs\Assembly\Archimajor_0.1b_PickPlace.txt
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bot_gnd\features
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\brd_outline\features
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\mid1\features
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\power_plane\features
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_gnd\features
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=ProjectOutputs\Assembly\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=ProjectOutputs\Assembly\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
+DocumentUniqueId=GMKQAWTI
 
 [Parameter1]
 Name=projectBoardVersion
@@ -571,7 +351,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP ePrint + JetAdvantage
+TargetPrinter=HP Deskjet 3050 J610 series (Network)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -677,7 +457,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=KONICA MINOLTA XPS Color Laser Class Driver
+TargetPrinter=HP Deskjet 3050 J610 series (Network)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -793,7 +573,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP ePrint + JetAdvantage
+TargetPrinter=HP Deskjet 3050 J610 series (Network)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -815,7 +595,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP ePrint + JetAdvantage
+TargetPrinter=HP Deskjet 3050 J610 series (Network)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -887,7 +667,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP ePrint + JetAdvantage
+TargetPrinter=HP Deskjet 3050 J610 series (Network)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -924,7 +704,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP ePrint + JetAdvantage
+TargetPrinter=HP Deskjet 3050 J610 series (Network)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1104,7 +884,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP ePrint + JetAdvantage
+TargetPrinter=HP Deskjet 3050 J610 series (Network)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -1139,16 +919,11 @@ OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=BOM_Violations
-OutputName7=BOM Checks Report
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP ePrint + JetAdvantage
+TargetPrinter=HP Deskjet 3050 J610 series (Network)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1195,21 +970,11 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MBAExportPARASOLID
-OutputName10=Export PARASOLID
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=MBAExportSTEP
-OutputName11=Export STEP
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=HP ePrint + JetAdvantage
+TargetPrinter=HP Deskjet 3050 J610 series (Network)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1334,7 +1099,6 @@ Type113=1
 Type114=1
 Type115=1
 Type116=1
-Type117=1
 
 [Difference Levels]
 Type1=1
@@ -1402,7 +1166,6 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
-Type66=1
 
 [Electrical Rules Check]
 Type1=1
