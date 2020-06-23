@@ -36,14 +36,14 @@ else
   against=$(git hash-object -t tree /dev/null)
 fi
 
-modifiedSchematics=$(git diff --cached --diff-filter=M --name-only $against | grep -i \**.schdoc$)
-allSchematics=$(git ls-files --cached | grep -i \**.schdoc$)
+modifiedSchematics=$(git diff --cached --diff-filter=M --name-only $against | grep -iE -- '\**.schdoc$|\**.pcbdoc$')
+allSchematics=$(git ls-files --cached | grep -iE -- '\**.schdoc$|\**.pcbdoc$')
 
 IFS=$(echo -en "\n\b")
 
 # Render each modified schematic file
 for f in $modifiedSchematics; do 
-  outfile="${f%.*}"
+  outfile=".allspice/$f"
   echo "Generating ${outfile}.svg"
   "${ALLSPICE}" convert --svg --no-json --output "$outfile" "$f"
   git add --force "${outfile}.svg"
@@ -51,7 +51,7 @@ done
 
 # Render each schematic file that does not have an svg
 for f in $allSchematics; do
-  outfile="${f%.*}"
+  outfile=".allspice/$f"
   if [ ! -f "${outfile}.svg" ]; then
     echo "Generating ${outfile}.svg"
     "${ALLSPICE}" convert --svg --no-json --output "$outfile" "$f"
