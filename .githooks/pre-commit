@@ -54,6 +54,7 @@ for f in $allSchematics; do
   outfile=".allspice/$f"
   if [ ! -f "${outfile}.svg" ]; then
     echo "Generating ${outfile}.svg"
+    mkdir -p "$(dirname "${outfile}")"
     "${ALLSPICE}" convert --svg --no-json --output "$outfile" "$f"
     git add --force "${outfile}.svg"
   fi
