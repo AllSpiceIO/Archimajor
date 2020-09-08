@@ -1,1 +1,2 @@
-*.SchDoc diff=allspice
+*.schdoc diff=allspice
+*.pcbdoc diff=allspice
